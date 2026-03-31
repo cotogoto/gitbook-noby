@@ -24,3 +24,10 @@ description: スマホでの使い方をしています。
 
 **音声ライブラリ提供：**\
 「[SHAREVOX:つくよみちゃん](https://www.sharevox.app/characters)」を利用しています。
+
+
+
+
+
+
+
