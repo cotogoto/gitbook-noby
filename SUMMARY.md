@@ -1,0 +1,16 @@
+# Table of contents
+
+* [チュートリアル](README.md)
+* [機能説明](feature.md)
+* [スマホの使い方](mobile.md)
+* [各種連携サービスについて](cooperation.md)
+* [サポート機能](support.md)
+* [AIとの会話のコツ](talk.md)
+* [自分の気持ちを知る](know_your_feelings.md)
+* [SNSのタイムラインをインポートする](sns_import/README.md)
+  * [X(Twitter)のインポート](sns_import/twitter.md)
+  * [Facebookのインポート](sns_import/facebook.md)
+* [Slack Bot マニュアル](slack_manual.md)
+* [Discord Bot マニュアル](discord_manual.md)
+* [FAQ](faq.md)
+* [CotoGoto MCP マニュアル](cotogoto-mcp-manyuaru.md)
